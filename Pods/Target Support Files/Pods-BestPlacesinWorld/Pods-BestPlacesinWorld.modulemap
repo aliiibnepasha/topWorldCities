@@ -1,0 +1,6 @@
+module Pods_BestPlacesinWorld {
+  umbrella header "Pods-BestPlacesinWorld-umbrella.h"
+
+  export *
+  module * { export * }
+}

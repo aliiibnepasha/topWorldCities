@@ -1,0 +1,15 @@
+
+target 'BestPlacesinWorld' do
+
+
+pod 'APMultiMenu'
+pod 'Firebase/Analytics'
+pod 'Firebase/Auth'
+pod 'Firebase/Database'
+pod 'SCLAlertView-Objective-C'
+pod 'DGActivityIndicatorView'
+pod 'SpinKit', '~> 1.1'
+pod 'MBProgressHUD', '~> 1.1.0'
+pod 'HCSStarRatingView', '~> 1.5'
+pod 'SDWebImage', '~> 5.0'
+end

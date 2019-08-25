@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>191845275150-o7grfl8nuns34i317iedirmup9vc2g2v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.191845275150-o7grfl8nuns34i317iedirmup9vc2g2v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAe8qSCcjUseJHWqN_47goBtcd8-FarW5U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>191845275150</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.domojis.World-is-Amazing</string>
+	<key>PROJECT_ID</key>
+	<string>bestplaceinworld-69a5f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bestplaceinworld-69a5f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:191845275150:ios:ed8b84fc360e29fe</string>
+	<key>DATABASE_URL</key>
+	<string>https://bestplaceinworld-69a5f.firebaseio.com</string>
+</dict>
+</plist>
